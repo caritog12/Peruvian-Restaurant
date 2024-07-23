@@ -81,7 +81,7 @@ form input, form textarea {
 form button {
     margin-top: 10px;
     padding: 10px;
-    background-color: #ff6f61;
+    background-color: #008000;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -94,7 +94,7 @@ form button:hover {
 
 /* Styles for the footer */
 footer {
-    background-color: #800080;
+    background-color: #008000;
     color: #fff;
     text-align: center;
     padding: 1em 0;
