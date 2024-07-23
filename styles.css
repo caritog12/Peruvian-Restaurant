@@ -3,7 +3,7 @@
 /* Styles for the body */
 body {
     font-family: Arial, sans-serif;
-    color: #2bffbc;
+    color: #333;
     background-color: #2bffbc;
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@ body {
 header {
     background-color: #ff6f61; /* Background color for the header */
     color: #fff; /* Text color in the header */
-    padding: 1em 0;
+    padding: 10px;
     text-align: center;
 }
 
