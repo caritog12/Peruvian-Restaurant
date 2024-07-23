@@ -4,14 +4,14 @@
 body {
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #388e3c;
     margin: 0;
     padding: 0;
 }
 
 /* Styles for the header */
 header {
-    background-color: #ff6f61; /* Background color for the header */
+    background-color: #388e3c; /* Background color for the header */
     color: #fff; /* Text color in the header */
     padding: 1em 0;
     text-align: center;
