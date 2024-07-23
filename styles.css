@@ -97,9 +97,13 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px;
+    padding-top: 1em; /* Espacio de relleno en la parte superior */
+    padding-right: 2em; /* Espacio de relleno en el lado derecho */
+    padding-bottom: 1em; /* Espacio de relleno en la parte inferior */
+    padding-left: 2em; /* Espacio de relleno en el lado izquierdo */
     position: fixed;
     width: 100%;
     bottom: 0;
     margin: 0;
 }
+
