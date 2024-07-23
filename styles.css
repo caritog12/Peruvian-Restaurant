@@ -13,7 +13,7 @@ body {
 header {
     background-color: #ff6f61; /* Background color for the header */
     color: #fff; /* Text color in the header */
-    padding: 10px;
+    padding: 1em 0;
     text-align: center;
 }
 
@@ -44,7 +44,8 @@ section {
 }
 
 #home {
-    background-color: #fff;
+    color: #fff;
+    background-color: ###363434;
     border-bottom: 2px solid #ff6f61;
 }
 
@@ -53,7 +54,8 @@ section {
 }
 
 #location {
-    background-color: #fff;
+    color: #fff;
+    background-color: ###363434;
     border-top: 2px solid #ff6f61;
 }
 
@@ -96,14 +98,7 @@ form button:hover {
 footer {
     background-color: #333;
     color: #fff;
+    padding: 1em 0;
     text-align: center;
-    padding-top: 1em; /* Espacio de relleno en la parte superior */
-    padding-right: 2em; /* Espacio de relleno en el lado derecho */
-    padding-bottom: 1em; /* Espacio de relleno en la parte inferior */
-    padding-left: 2em; /* Espacio de relleno en el lado izquierdo */
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    margin: 0;
 }
 
