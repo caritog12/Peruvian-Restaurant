@@ -1,0 +1,104 @@
+/* styles.css */
+
+/* Styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for the header */
+header {
+    background-color: #ff6f61; /* Background color for the header */
+    color: #fff; /* Text color in the header */
+    padding: 1em 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Styles for sections */
+section {
+    padding: 2em;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+#home {
+    background-color: #fff;
+    border-bottom: 2px solid #ff6f61;
+}
+
+#menu {
+    background-color: #ffe0e0;
+}
+
+#location {
+    background-color: #fff;
+    border-top: 2px solid #ff6f61;
+}
+
+#contact {
+    background-color: #ffe0e0;
+}
+
+/* Styles for the form */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #ff6f61;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #ff4c3b;
+}
+
+/* Styles for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
